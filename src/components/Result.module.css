@@ -1,0 +1,49 @@
+.webname {
+  text-align: center;
+  font-family: ubuntu;
+  color: white;
+}
+.head {
+  font-family: cursive;
+  font-weight: 500;
+}
+
+.buttn {
+  position: relative;
+  left: 42vw;
+  margin: 2vh;
+  font-size: 2vh;
+  padding: 3vh 3vw;
+  border-radius: 0.5vw;
+  border: 0px;
+  background-color:white;
+}
+.questdiv {
+  width: 86vw;
+  height: auto;
+  border-radius: 9vh;
+  background-color: white;
+  margin-left: 6vw;
+  text-align: center;
+  padding: 3vh 0;
+  font-size: 4vh;
+}
+
+.bgcolor {
+  position: relative;
+  bottom: 7vh;
+  margin-left: 89vw;
+  font-size: 3vh;
+  padding: 1vh 2vw;
+  border-radius: 1vw;
+}
+
+
+@media screen and (min-width: 300px) and  (max-width: 560px) {
+.buttn{
+    border-radius: 13px;
+}
+   
+  
+   
+  }
